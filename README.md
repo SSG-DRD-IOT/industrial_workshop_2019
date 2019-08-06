@@ -15,7 +15,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **9:30-9:45am**  |Demo: Industrial Reference Impementation on IEI Tank|[Slides](./presentations/Intel-Automation.pdf)|
 | **9:45-10:15am** |Presentation: Introduction to Edge Insights Software|[Slides]()**TODO**|
 | **10:15-10:30am** |Demo: Anomaly Detection on EIS                     ||
-| **10:30-11:30am** |Lab: EIS Intro and Sample Applications             |[Lab]() **TODO**|
+| **10:30-11:30am** |Lab: EIS Intro and Sample Applications             |[Lab](https://software.intel.com/en-us/node/812430)|
 | **11:30-12:30pm** |Lab: Create Industrial Solution with EIS           | [Lab]()**TODO**|
 | **12:30-1:30pm**  | Lunch                                              |
 |**1:30-2:00pm**|Presentation & Demo: Hardware Acceleration with HDDL-R|[Slides]()**TODO**|
