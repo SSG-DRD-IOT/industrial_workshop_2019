@@ -10,10 +10,10 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 |                   | April 30th                                         | |
 | ----------------- | -------------------------------------------------- |-|
-| **8:00-9:00am**   | Doors Open for Badge Pickup                        | |
-| **9:00-9:30am**   | Presentation: Intel Developer Program for Industrial Automation  |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
-| **9:30-10:00am**  | Demo: Industrial Reference Impementation on IEI Tank     |[Slides](./presentations/Intel-Automation.pdf)|
-| **10:00-10:15am** | Break                                              |
+| **8:00-9:00am**   | |Doors Open for Badge Pickup                        | |
+| **9:00-9:30am**   | Presentation| Intel Developer Program for Industrial Automation  |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
+| **9:30-10:00am**  | Demo| Industrial Reference Impementation on IEI Tank     |[Slides](./presentations/Intel-Automation.pdf)|
+| **10:00-10:30am** | Presentation|Introduction to Edge Insights Software|[Slides](./presentations/02-Virtualization.pdf)|
 | **10:15-10:40am** | Virtualization                                     |[Slides](./presentations/02-Virtualization.pdf)|
 | **10:40-11:15am** | Real-Time Operating Systems                        |[Slides](./presentations/03-Real-Time-Systems.pdf)|
 | **11:15-12:00pm** | Real-Time Operating Systems Labs                   | [Lab](https://github.com/SSG-DRD-IOT/real-time-lab)|
