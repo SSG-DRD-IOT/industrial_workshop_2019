@@ -24,39 +24,9 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **3:00-3:30pm**   | Presentation: Real-Time Networking and Time Sensitive Networking |[Slides](./presentations/04-Time-Sensitive-Networking.pdf)|
 | **3:30-4:00pm**   | Presentation: Virtualization |[Slides](./presentations/02-Virtualization.pdf)|
 | **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations |[Lab](https://software.intel.com/en-us/iot/reference-implementations)|
-
-
-## Workshop Presentations, Labs and Content
-
-#### April 30th - Day 1
--   **Intel Strategy and Developer Program for Industrial Workload Consolidation**
-    -   [Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf)
-
--   **Case Studies for Real-Time Systems in Industry**
-    -  Slides - [Automation at Intel](./presentations/Intel-Automation.pdf)
-
--   **Virtualization**
-    -   [Slides](./presentations/02-Virtualization.pdf)
-
--   **Real-Time Operating Systems**
-    -   [Slides](./presentations/03-Real-Time-Systems.pdf)
-    -   Lab - [Real-Time Operating System](https://github.com/SSG-DRD-IOT/real-time-lab)
-
--   **Real-Time Networking and Time Sensitive Networking**
-    -   [Slides](./presentations/04-Time-Sensitive-Networking.pdf)
-    -  Lab - [Without Time-Aware Traffic Scheduling or LaunchTime](./tsn_lab/README.md)
-    -  Lab - [Time-Aware Traffic Scheduling Enabled](./tsn_lab/README.md)
-    -  Lab - [Time-Aware Traffic Scheduling and LaunchTime Enabled](./tsn_lab/README.md)
-
--   Industrial Protocols
-    -   [Slides](./presentations/05-Industrial-Protocols.pdf)
-    -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
-    
--   Introduction to the Insights Platform
-    -   [Slides](./presentations/insights%20stack%20presentation.pdf)
    
 
-#### Day 1 - Extra Resources
+#### Extra Resources
 - Introduction
   - [Intel Industrial Applications Webpage](https://www.intel.com/content/www/us/en/internet-of-things/industrial-iot/overview.html)
 - Virtualization
