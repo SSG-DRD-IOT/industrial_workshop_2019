@@ -10,13 +10,13 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 |                   | April 30th                                         | |
 | ----------------- | -------------------------------------------------- |-|
-| **8:00-9:00am**   | |Doors Open for Badge Pickup                        | |
-| **9:00-9:30am**   | Presentation| Intel Developer Program for Industrial Automation  |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
-| **9:30-10:00am**  | Demo| Industrial Reference Impementation on IEI Tank     |[Slides](./presentations/Intel-Automation.pdf)|
-| **10:00-10:30am** | Presentation|Introduction to Edge Insights Software|[Slides](./presentations/02-Virtualization.pdf)|
-| **10:15-10:40am** | Virtualization                                     |[Slides](./presentations/02-Virtualization.pdf)|
-| **10:40-11:15am** | Real-Time Operating Systems                        |[Slides](./presentations/03-Real-Time-Systems.pdf)|
-| **11:15-12:00pm** | Real-Time Operating Systems Labs                   | [Lab](https://github.com/SSG-DRD-IOT/real-time-lab)|
+| **8:00-9:00am**   |Doors Open for Badge Pickup                        | |
+| **9:00-9:30am**   |Presentation: Intel Developer Program for Industrial Automation |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
+| **9:30-9:45am**  |Demo: Industrial Reference Impementation on IEI Tank|[Slides](./presentations/Intel-Automation.pdf)|
+| **9:45-10:15am** |Presentation: Introduction to Edge Insights Software|[Slides]()**TODO**|
+| **10:15-10:30am** |Demo: Anomaly Detection on EIS                     ||
+| **10:30-11:30am** |Lab: EIS Intro and Sample Applications             |[Lab]() **TODO**|
+| **11:30-12:30pm** |Lab: Create Industrial Solution with EIS           | [Lab]()**TODO**|
 | **12:00-1:00pm**  | Lunch                                              |
 | **1:00-1:30pm**   | Real-Time Networking and Time Sensitive Networking |[Slides](./presentations/04-Time-Sensitive-Networking.pdf)|
 | **1:00-2:00pm**   | Real-Time Networking Labs                          |[Lab](./tsn_lab/README.md) [Lab](./tsn_lab/README.md) [Lab](./tsn_lab/README.md)
